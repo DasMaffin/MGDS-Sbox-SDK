@@ -12,7 +12,7 @@ float speed = Mgds.Config.GetFloat( "speed", 1f );
 Mgds.Push.On( "MaintenanceWarning", m => banner.Show( m.Get<string>( "message" ) ) );
 ```
 
-**Documentation: [dasmaffin.com/Mgds/Docs/sdk/sbox](https://www.dasmaffin.com/Mgds/Docs/sdk/sbox)**
+**Documentation: [dasmaffin.com/Mgds/Docs/sbox](https://www.dasmaffin.com/Mgds/Docs/sbox)**
 
 ## Install
 
