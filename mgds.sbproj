@@ -1,0 +1,17 @@
+{
+  "Title": "MGDS",
+  "Type": "library",
+  "Org": "dasmaffin",
+  "Ident": "mgds",
+  "Schema": 1,
+  "IncludeSourceFiles": true,
+  "Resources": null,
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Mounts": null,
+  "IsStandaloneOnly": false,
+  "Metadata": {
+    "CsProjName": "",
+    "Summary": "Maffin's Gamedev Services: sign-in, save files, leaderboards, remote config, reports and push messages."
+  }
+}
